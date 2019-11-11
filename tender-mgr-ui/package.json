@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.0",
     "iview": "^3.0.0",
     "iview-loader": "^1.2.1",
     "less": "^2.7.3",
